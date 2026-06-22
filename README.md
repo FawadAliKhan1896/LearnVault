@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄️ LearnVault
+# LearnVault
 
 ### Organize Everything You Learn
 
@@ -61,7 +61,7 @@ Create, organize, search, and manage learning notes, tutorials, resources, and b
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/learnvault.git
+git clone https://github.com/FawadAliKhan1896/LearnVault.git
 cd learnvault
 
 # Install PHP dependencies
